@@ -6,7 +6,7 @@ const Home = () => {
 
   return (
     <div>
-      <p>{information.age}</p>
+      <p>{information.gender}</p>
     </div>
   )
 }
